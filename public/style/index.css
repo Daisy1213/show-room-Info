@@ -34,6 +34,22 @@ a{
     text-decoration: none;
 }
 
-.room-picture{
-    float: left;
+.room1-picture{
+    width: 660px;
+    height: 435px;
+}
+
+
+.preview{
+    height: 200px;
+    width:720px;
+}
+.room{
+    width: 110px;
+    height: 90px;
+    cursor: pointer;
+}
+
+.body-right{
+    float: right;
 }

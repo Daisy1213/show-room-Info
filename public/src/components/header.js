@@ -8,7 +8,7 @@ export default class Header extends Component{
         return(
             <div className="header" >
                 <div className="left">
-                    <span><strong>萤火虫</strong>，居住自由主义</span>
+                    <span><strong>萤火虫 </strong>居住自由主义</span>
                 </div>
                 <div className="right">
                     <span><a href="#">登录</a></span>
